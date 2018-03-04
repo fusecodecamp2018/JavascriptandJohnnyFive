@@ -1,0 +1,40 @@
+Introduction to javascript
+	What are the most common uses?
+	What are we going to use it for today?
+Hardware in the bag
+	Arduinio Uno
+	Bread Board
+	Jumper Wires
+	LED
+	RGB LED
+	Matrix LED
+	USB Cable
+Arduino Software
+	Connecting the Arduino to your computer and configuring the software
+	Loading the Firmata Software
+
+Javascript Basics
+	What is a variable?
+	Declaring variables
+		Numbers
+		Strings
+		Boolean
+	What is the semiconlon for?
+	Comments in code
+	Strings vs Numbers
+	Conditionals (If/Else)
+	Loops
+	Arrays
+
+
+	Making an LED blink
+		Multiple Exercises with single LED
+	Red, Green, and Blue with one LED
+		Multiple Excercises with RGB LED
+	8x8 Matrix LED
+		Multiple Excercises with Matrix LED
+		http://gurgleapps.com/tools/matrix
+
+
+
+
