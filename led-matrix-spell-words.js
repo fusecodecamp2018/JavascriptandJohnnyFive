@@ -1,6 +1,11 @@
 var five = require("johnny-five");
 var board = new five.Board();
 
+var s = "overpopulation";
+for (var i = 0; i < s.length; i++) {
+    console.log(s.charAt(i));
+}
+
 board.on("ready", function() {
 
   var heart = [

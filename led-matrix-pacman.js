@@ -9,7 +9,6 @@ board.on("ready", function() {
   var matrix = new five.Led.Matrix({
     addresses: [0x70],
     controller: "HT16K33",
-    rotation: 3,
   });
 
   matrix.clear();
