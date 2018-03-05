@@ -14,15 +14,11 @@ board.on("ready", function() {
     "00000000"
   ];
 
-  var test = [0x49,0x2a,0x1c,0x1c,0x1c,0x1c,0x1c,0x1c]
-
   var matrix = new five.Led.Matrix({
     addresses: [0x70],
-    controller: "HT16K33",
-    rotation: 3,
+    controller: "HT16K33"
   });
 
   matrix.clear();
   matrix.draw(heart);
-  matrix.draw(test);
 });

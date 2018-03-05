@@ -8,7 +8,7 @@ board.on("ready", function() {
 
   var matrix = new five.Led.Matrix({
     addresses: [0x70],
-    controller: "HT16K33",
+    controller: "HT16K33"
   });
 
   matrix.clear();
