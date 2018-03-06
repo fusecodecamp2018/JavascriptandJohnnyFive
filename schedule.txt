@@ -1,3 +1,4 @@
+
 8:30 Introductions of John and Andrew
 8:35 Installing of Arduino Software, node.js, and johnny-five library
 9:00 Introduction to Javascript
@@ -8,6 +9,7 @@
 10:45 Wiring the LED, RGB LED, Matrix LED to the breadboard and Arduino
 11:15 First Project - Making an LED Blink
 12:00 Lunch
+
 8:30 Introductions of John and Andrew
 8:35 Installing of Arduino Software, node.js, and johnny-five library
 9:00 Introduction to Javascript
