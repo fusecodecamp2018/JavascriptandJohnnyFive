@@ -3,7 +3,7 @@ var board = new five.Board();
 
 board.on("ready", function() {
 
-  var led = new five.Led(13);
+  var led = new five.Led(11);
 
   led.fadeIn();
 
@@ -11,3 +11,4 @@ board.on("ready", function() {
   this.wait(5000, function() {
     led.fadeOut();
   });
+});
