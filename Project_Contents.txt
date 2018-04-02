@@ -21,7 +21,6 @@ Javascript Basics
 		Boolean
 	What is the semiconlon for?
 	Comments in code
-	Strings vs Numbers
 	Conditionals (If/Else)
 	Loops
 	Arrays
