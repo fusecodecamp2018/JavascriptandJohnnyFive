@@ -27,6 +27,20 @@ In javascript the semicolon is used to end a statement but are not necessarily r
 
 The general rule is always put comments in your code.  The amount of comments depends on the complexity of the code but the general purpose is to give the next person making modifications to your code basic information about what a block of code is supposed to do.
 
+## REPL
+
+REPL stands for Read Eval Print Loop and it represents a computer environment like a Windows console or Unix/Linux shell where a command is entered and the system responds with an output in an interactive mode. Node.js or  **Node**  comes bundled with a REPL environment. It performs the following tasks −
+
+-   **Read**  − Reads user's input, parses the input into JavaScript data-structure, and stores in memory.
+    
+-   **Eval**  − Takes and evaluates the data structure.
+    
+-   **Print**  − Prints the result.
+    
+-   **Loop**  − Loops the above command until the user presses  **ctrl-c**twice.
+    
+
+The REPL feature of Node is very useful in experimenting with Node.js codes and to debug JavaScript codes.
 
 ## Conditionals
 
