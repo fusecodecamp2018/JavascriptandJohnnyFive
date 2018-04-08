@@ -3,7 +3,11 @@ var keypress = require("keypress");
 
 keypress(process.stdin);
 
-var board = new five.Board();
+//var board = new five.Board();
+
+var board = new five.Board({
+  port: "/dev/cu.FuseBot-DevB"
+});
 
 board.on("ready", function() {
 
