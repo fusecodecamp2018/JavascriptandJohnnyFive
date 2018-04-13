@@ -10,8 +10,7 @@
 11:15 First Project - Making an LED Blink
 12:00 Lunch
 
-1:00PM LED Excercises
-1:30PM RGB LED Excercises
+1:00PM RGB LED Excercises
 2:00PM Matrix LED Excercises
 2:30PM Break
 2:45PM Experimentation Time
