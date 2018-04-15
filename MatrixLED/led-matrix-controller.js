@@ -1,9 +1,5 @@
-/*
-  NOTE: In the video, there is a "winking smiley face" shown. 
-        This version of the program omits the "winking smiley 
-        face" for the sake of simplicity. Readers are encouraged 
-        to implement a solution to reproduce the "animation".
-*/var readline = require("readline");
+
+var readline = require("readline");
 var five = require("johnny-five");
 var board = new five.Board({
   repl: false

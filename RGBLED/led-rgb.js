@@ -1,4 +1,5 @@
 var five = require("johnny-five");
+// http://johnny-five.io/examples/led-rgb/
 
 
 five.Board().on("ready", function() {
@@ -19,7 +20,7 @@ five.Board().on("ready", function() {
 
   // Turn it on and set the initial color
   led.on();
-  led.color("green");
+  led.color("blue");
 
 
   led.blink(1000);
