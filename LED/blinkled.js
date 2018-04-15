@@ -4,7 +4,7 @@ var board = new five.Board();
 board.on("ready", function() {
 
   // Create a standard `led` component instance
-  var led = new five.Led(13);
+  var led = new five.Led(11);
 
   // "blink" the led in 500ms
   // on-off phase periods
