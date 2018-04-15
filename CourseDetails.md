@@ -18,6 +18,12 @@ Variables can be added together just like algebra
     value2 = 5;
     total = value1 + value2;
 
+## Arrays
+JavaScript arrays are used to store multiple values in a single variable.
+An array is a special variable, which can hold more than one value at a time.
+
+    var cars = ["Saab", "Volvo", "BMW"];
+
 ## What is the semicolon for?
 
 In javascript the semicolon is used to end a statement but are not necessarily required.  There are lots of web pages expressing views on whether to use semicolons or not.  It's really up to you and either way will work but just make sure you are consistent.
