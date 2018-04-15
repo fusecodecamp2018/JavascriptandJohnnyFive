@@ -3,7 +3,7 @@
 
 
   // Create a standard `led` component instance by creating a variable
-  // and initialize the led on pin 13
+  // and initialize the led on pin 11
 
 
   // "blink" the led in 500ms
