@@ -24,6 +24,7 @@ board.on("ready", function() {
       // When a message is ready to be written,
       // write one character at a time to device 0.
       matrix.draw(0, message.shift());
+      matrix.clear();
 
       // When the end of the message has been reached,
       // show the readline prompt.

@@ -1,10 +1,10 @@
 {
-  "name": "webtest",
+  "name": "led-matrix-controller",
   "version": "0.0.1",
   "description": "Testing node, web sockets, johnny-five, arduino",
-  "main": "webtest.js",
+  "main": "led-matrix-controller.js",
   "dependencies": {
-    "socket.io": "latest",
+    "socket.io": "readline",
     "johnny-five": "latest"
   },
   "devDependencies": {},

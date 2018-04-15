@@ -1,11 +1,10 @@
 {
-  "name": "node-arduino-test",
+  "name": "blinkled",
   "version": "0.0.1",
   "description": "Testing node, web sockets, johnny-five, arduino",
-  "main": "webtest.js",
+  "main": "blinkled.js",
   "dependencies": {
-    "socket.io": "~0.9.16",
-    "johnny-five": "~0.7.28"
+    "johnny-five": "latest"
   },
   "devDependencies": {},
   "scripts": {
