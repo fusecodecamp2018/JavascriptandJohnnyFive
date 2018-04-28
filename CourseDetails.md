@@ -99,11 +99,13 @@ Functions contain blocks of code that need to be executed repeatedly. Functions 
 
 **Named Function**
 
-var foo = function() { /* do something */ }
 
-var greet = function(person, greeting) {
+
+    var foo = function() { /* do something */ }
+
+    var greet = function(person, greeting) {
     var text = greeting + ', ' + person;
     console.log(text);
-};
-greet('Rebecca', 'Hello');
+    };
+    greet('Rebecca', 'Hello');
 
