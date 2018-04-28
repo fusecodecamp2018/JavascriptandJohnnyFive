@@ -98,6 +98,7 @@ The REPL feature of Node is very useful in experimenting with Node.js codes and 
 Functions contain blocks of code that need to be executed repeatedly. Functions can take zero or more arguments, and can optionally return a value.
 
 **Named Function**
+
 var foo = function() { /* do something */ }
 
 var greet = function(person, greeting) {
